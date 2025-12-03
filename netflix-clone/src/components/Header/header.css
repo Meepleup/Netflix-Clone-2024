@@ -63,10 +63,3 @@
 .header_right ul li:hover {
     opacity: 0.7;
 }
-
-/* RESPONSIVE */
-@media (max-width: 850px) {
-    .header_left ul li:nth-child(n+4) {
-        display: none;
-    }
-}
